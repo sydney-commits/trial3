@@ -14,3 +14,5 @@ This is the basic thing
 
 okay ..
 This is the Auth Token: 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
+
+$ git push https://github.com/username/repo.git?access_token=your_token_here
